@@ -31,6 +31,12 @@ namespace ariel{
             return output;
         }
 
+        // T get_root(){
+        //     return root.value;
+        // }
+
+    
+
         
             // pre order iterator
         class preIterator{
